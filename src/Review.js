@@ -58,7 +58,7 @@ function Review() {
         </button>
       </div>
       <button className="random-btn" onClick={randomPerson}>
-        suprise me
+        Surprise Me
       </button>
     </article>
   );
